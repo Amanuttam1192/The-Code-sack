@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+//gfg code
 int maxGameByWinner(int N)
 {
 	int dp[N];
