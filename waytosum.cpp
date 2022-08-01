@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-
+//gfg code
 using namespace std;
 
 int countWays(int arr[], int m, int N)
