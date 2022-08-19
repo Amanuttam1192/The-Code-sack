@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+//gfg code
 int countSeq(int n, int diff)
 {
 	if (abs(diff) > n)
